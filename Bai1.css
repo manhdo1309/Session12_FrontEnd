@@ -92,6 +92,7 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    text-wrap: wrap;
 }
 .rectangle38 .material-symbols-outlined:first-child{
     background-color: #15141199;
@@ -238,6 +239,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .total-product .frame162692{
     margin-left: 100px;
@@ -288,6 +290,7 @@
     align-items: center;
     justify-content: space-between;
     gap: 30px;
+    flex-wrap: wrap;
 }
 .products .product-item{
     width: 1320px;
@@ -366,6 +369,7 @@
     align-items: center;
     flex-direction: row;
     gap: 15px;
+    flex-wrap: wrap;
 }
 .lists .material-symbols-outlined:first-child{
     font-size: 32px;
@@ -410,6 +414,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .footer .brand{
     width: 487px;
